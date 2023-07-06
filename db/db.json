@@ -34,13 +34,6 @@
       "age": 34,
       "previousAppointment": "6/15/2023",
       "nextAppointment": "7/6/2023"
-    },
-    {
-      "name": "Test Patient",
-      "age": "22",
-      "previousAppointment": "6/12/2023",
-      "nextAppointment": "7/18/2023",
-      "id": 6
     }
   ]
 }
